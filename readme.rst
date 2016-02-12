@@ -2,6 +2,13 @@
 Fall2015 lab 04
 ###############
 
+/*******
+* Team Members
+*******/
+
+John Janzen ACKED
+Jeff Tseng
+
 This project is the starter for COMP4711 Lab 4, for the Fall 2015 session.
 
 This webapp is broken. On purpose :) 
